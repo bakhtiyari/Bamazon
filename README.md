@@ -2,15 +2,15 @@
 An Amazon-like storefront with the MySQL
 
 ### Features
-- Integrated MySQL database
+- MySQL database
 - Customer view
     - View all items
     - Purchase items
     
 ## Technologies Used
 - Node/NPM (JavaScript environment/package manager)
-- Inquirer.js (Command line interaction interface)
-- MySQL (RDBMS)
+- Inquirer.js 
+- MySQL 
 
 ## Screenshots
 
@@ -22,5 +22,7 @@ An Amazon-like storefront with the MySQL
 
 ## Screen capture
 
-Link to youtube: https://www.youtube.com/watch?v=z4vin32ZbGM&feature=youtu.be
+Link to youtube: https://www.youtube.com/watch?v=z4vin32ZbGM&feature=youtu.be)
+
+
 
