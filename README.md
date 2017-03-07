@@ -7,17 +7,6 @@ An Amazon-like storefront with the MySQL
     - View all items
     - Purchase items
     
-## Prerequisites
-- MySQL
-- Node.js
-
-## Getting Started
-- Clone this repository to your machine.
-- Run `console.sql` in your preferred MySQL program.
-- Run `npm install` to install necessary Node packages.
-- Run `node bamazonCustomer.js` for the customer view.
-- Run `node bamazonManager.js` for the manager view.
-
 ## Technologies Used
 - Node/NPM (JavaScript environment/package manager)
 - Inquirer.js (Command line interaction interface)
@@ -33,5 +22,5 @@ An Amazon-like storefront with the MySQL
 
 ## Screen capture
 
-![](https://www.youtube.com/watch?v=z4vin32ZbGM&feature=youtu.be)
+Link to youtube: https://www.youtube.com/watch?v=z4vin32ZbGM&feature=youtu.be
 
