@@ -1,0 +1,17 @@
+{
+  "name": "bamazon-mysql",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront with the MySQL",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.0.5",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bakhtiyari",
+  "license": "ISC"
+}
